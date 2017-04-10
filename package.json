@@ -1,0 +1,19 @@
+{
+  "name": "import_manufacturing_data",
+  "version": "1.0.0",
+  "description": "",
+  "main": "execute.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nirajvora/importManufacturingData.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nirajvora/importManufacturingData/issues"
+  },
+  "homepage": "https://github.com/nirajvora/importManufacturingData#readme"
+}
