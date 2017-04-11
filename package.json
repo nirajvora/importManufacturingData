@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/nirajvora/importManufacturingData/issues"
   },
-  "homepage": "https://github.com/nirajvora/importManufacturingData#readme"
+  "homepage": "https://github.com/nirajvora/importManufacturingData#readme",
+  "dependencies": {
+    "mongoose": "^4.9.4"
+  }
 }
